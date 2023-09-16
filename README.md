@@ -11,6 +11,7 @@ I've started catalouging my most interesting projects here on GitHub - so they w
   - Molotov - A https://jklm.fun bot
   - Sebastian Lague's Chess Challenge
   - BlokusCloud - my own attempt to make an online multiplayer game that works (this is struggling under Google Firebase's rate limits)
+  - airstrik.py and CameraDistance - two projects under my NC State internship
 - 🌱 I’m currently learning
   - How to use selenium effeciently in programs
   - Develop games with Unity and Unreal Engine
