@@ -23,5 +23,3 @@ I've started catalouging my most interesting projects here on GitHub - so they w
    - Java - 🟡 Mostly proficient - not very efficient at programming in it - could use a refresh
    - HTML/CSS 🔴 Not great - know enough to get around, but haven't really worked in it at all
    - 
-- 
-
