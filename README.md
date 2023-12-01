@@ -8,13 +8,11 @@ I've been coding since I was 8 - and I still learn something new every time!
 I've started catalouging my most interesting projects here on GitHub - so they will probably be mostly Python - with maybe some C# and Docker Compose to boot.
 - 🔭 I’m currently working on:
   - Hannibal - A https://generals.io bot
-  - Molotov - A https://jklm.fun bot
-  - Sebastian Lague's Chess Challenge
-  - BlokusCloud - my own attempt to make an online multiplayer game that works (this is struggling under Google Firebase's rate limits)
+  - Statify - Minecraft stats done better
   - airstrik.py and CameraDistance - two projects under my NC State internship
 - 🌱 I’m currently learning
-  - How to use selenium effeciently in programs
-  - Develop games with Unity and Unreal Engine
+  - How to use selenium efficiently in programs
+  - How to develop games with Unity and Unreal Engine
 - 💻 My languages
    - Python - 🟢 Extremely proficient
    - Javascript/Node.js - 🟡 Mostly proficient, just haven't worked on it in a little while
