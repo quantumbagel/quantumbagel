@@ -27,3 +27,9 @@ I've started catalouging my most interesting projects here on GitHub. These will
    - HTML/CSS 🔴 Not great - know enough to get around, but haven't really worked in it at all
 
 Contact me on Discord: `@NotQuantum` :D
+
+Other websites that I use:
+
+[Modrinth](https://modrinth.com/user/quantumbagel) - Minecraft plugins (Statify [(GH)](https://github.com/quantumbagel/statify)  [(Modrinth)](https://modrinth.com/plugin/statify))
+
+
