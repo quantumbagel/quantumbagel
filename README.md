@@ -13,11 +13,12 @@ I've started catalouging my most interesting projects here on GitHub. These will
 
   
 - 🔭 I’m currently working on:
-  - Advent of Code 2023 ⭐
-  - airstrik.py and CameraDistance - two projects under my NC State internship
+  - PyAerial - NC STATE intership project
+  - Triggered - a discord bot
 - 🌱 I’m currently learning
   - How to develop games with Unity and Unreal Engine
   - How to optimize Java programs
+  - ADS-B packet structure
 - 💻 My languages
    - Python - 🟢 Extremely proficient
    - Javascript/Node.js - 🟡 Proficient, just haven't worked on it in a little while
