@@ -1,33 +1,43 @@
-# 👋 I'm Julian Reder!
+## 👋 I'm Julian Reder!
 
-### Bio
 
-I'm a Wake Tech student currently working on various random projects and taking an internship with NC State's AERPAW drone lab.
-I've been coding since I was 8 - and I still learn something new every time!
+I'm a Wake Tech student currently working on various random projects and taking an internship with NC State's AERPAW drone lab. 
 
-I've started catalouging my most interesting projects here on GitHub. These will probably (mostly) consist of the following:
+I'm looking at either a `Computer Science` or `Computer Engineering` degree at NC State.
 
-* Discord bots that I screw around with
-* My NC State AERPAW projects
-* Other random (probably Python) projects that I take on
+
+Most of the projects I work on here fall into three categories:
+
+* Discord bots that I screw around with (`Triggered`, `Piranha`) 
+* My NC State AERPAW projects (`airstrik.py`, `CameraDistance`, etc.)
+* Other random projects that I take on for fun (`Molotov`, `InfiniteScrape`)
+
 
   
-- 🔭 I’m currently working on:
-  - PyAerial - NC STATE intership project
-  - Triggered - a discord bot
-- 🌱 I’m currently learning
-  - How to develop games with Unity and Unreal Engine
-  - How to optimize Java programs
+- ### 🔭 I’m currently working on:
+  - `PyAerial` - NC STATE intership project (currently private)
+  - `Triggered` - a discord bot (almost completed!)
+  - `InfiniteScrape` - a bot to scrape Neal Agarwal's Infinite Craft (with `@Pixelz22`) 
+- ###  🌱 I’m currently learning
+  - How to manage extensive college workloads :(
   - ADS-B packet structure
-- 💻 My languages
-   - Python - 🟢 Extremely proficient
-   - Javascript/Node.js - 🟡 Proficient, just haven't worked on it in a little while
-   - C# - 🟡 Proficient, need to work on optimization
-   - Docker/Docker Compose - 🟡 Proficient
-   - Java - 🟡 Mostly proficient - not very efficient at programming in it - could use a refresh
-   - HTML/CSS 🔴 Not great - know enough to get around, but haven't really worked in it at all
+  - How to mod games
+- ### 💻 My languages
+   - `Python` - 🟢 Extremely proficient
+   - `Selenium / Web Scraping` - 🟢 Extremely good
+   - `Beating Tyler` - 🟢 Extremely good at reliably doing.
+   - `Javascript/Node.js` - 🟡 Proficient, just haven't worked on it in a little while
+   - `C#` - 🟡 Proficient, need to work on optimization
+   - `Docker/Docker Compose` - 🟡 Proficient
+   - `Java` - 🟡 Proficient
+   - `HTML/CSS` 🔴 Not great - know enough to get around, but haven't really worked in it at all
+ - ### ⌚ Future projects
+   - `Lights Out!` - a puzzle platformer game I might make with `@Pixelz22`
+   - `CustomCrafter` - a SpigotMC crafting plugin for Minecraft
+   - `WeBlock / Disney Square` - a lockdown / time management program for Windows, Linux, and MacOS. Might work on this with `@Pixelz22`.
 
-Contact me on Discord: `@NotQuantum` :D
+
+Contact me on `Discord`: `@NotQuantum` :D
 
 Other websites that I use:
 
