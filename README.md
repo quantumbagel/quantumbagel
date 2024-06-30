@@ -41,7 +41,7 @@ Most of the projects I work on here fall into three categories:
 Find some more information, a detailed portfolio, and a contact form on my [website](https://quantumbagel.github.io)
 
 
-Contact me on `Discord`: `@NotQuantum` :D
+Contact me on `Discord`: [@NotQuantum](https://discordapp.com/users/1085939954758205561) :D
 
 Other websites that I use:
 
