@@ -3,7 +3,7 @@
 
 I'm a Wake Tech student currently working on various random projects and taking an internship with NC State's AERPAW drone lab. 
 
-I'm looking at either a `Computer Science` or `Computer Engineering` degree at NC State after dually enrolling at Wake Tech. I'm applying this fall :)
+I'm looking at either a `Computer Science` or `Computer Engineering` degree at NC State after dually enrolling at Wake Tech. I'm applying for admission for fall 2025 :)
 
 
 Most of the projects I work on here fall into three categories:
