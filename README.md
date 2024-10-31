@@ -15,11 +15,11 @@ Most of the projects I work on here fall into three categories:
   
 - ### 🔭 I’m currently working on:
   - `PyAerial` - NC STATE intership project, successor to `airstrik.py`
-  - `DroneTracker` - a drone tracker, also for NC STATE.
+  - `PlayCord` - a discord minigame bot
 - ### 😠 Projects I'm procrastinating on:
   - `Triggered` - an IFTTT discord bot that really only needs hardening
   - `finiteCraft` - i hate cloudflare js captchas
-  - `Statify` - I want to work on this but can't find the time
+  - `Statify/Gauss Engine` - I want to work on this but can't find the time
 - ###  🌱 I’m currently learning
   - How to work in a organizational structure
   - How to manage my time effectively
