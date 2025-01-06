@@ -1,14 +1,13 @@
 ## 👋 I'm Julian Reder!
 
 
-I'm a Wake Tech student currently working on various random projects and taking an internship with NC State's AERPAW drone lab. 
+I'm a Wake Tech student currently working on various random projects and taking an internship with NC State's AERPAW drone lab. I've been accepted to NCSU's College of Engineering for a `Computer Engineering` major (for bachelor) and a `Computer Science` master, which I plan to do in 4 years.
 
-I'm looking at either a `Computer Science` or `Computer Engineering` degree at NC State after dually enrolling at Wake Tech. I'm applying for admission for fall 2025 :)
 
 
 Most of the projects I work on here fall into three categories:
 
-* Discord bots that I screw around with (`Triggered`, `Piranha`) 
+* Discord bots that I screw around with (`Triggered`, `Piranha`, `PlayCord`) 
 * My NC State AERPAW projects (`airstrik.py`, `DroneTracker`, etc.)
 * Other random projects that I take on for fun (`Molotov`, `finiteCraft`)
 
@@ -21,8 +20,8 @@ Most of the projects I work on here fall into three categories:
   - `finiteCraft` - i hate cloudflare js captchas
   - `Statify/Gauss Engine` - I want to work on this but can't find the time
 - ###  🌱 I’m currently learning
-  - How to work in a organizational structure
-  - How to manage my time effectively
+  - How to handle distractions and deal with 16-20 credits per semester
+  - How to plan out projects
 - ### 💻🗣️ My languages
    - `Python` - 🟢 Extremely proficient
    - `Selenium / Web Scraping` - 🟢 Extremely good
@@ -42,6 +41,13 @@ Find some more information, a detailed portfolio, and a contact form on my [webs
 
 Other websites that I use:
 [Modrinth](https://modrinth.com/user/quantumbagel) 
-[Discord (@NotQuantum)](https://discordapp.com/users/1085939954758205561)
+[Discord main (@QuantumBagel)](https://discordapp.com/users/897146430664355850)
+[Discord alt (@NotQuantum)](https://discordapp.com/users/1085939954758205561)
+
+
+Shoutout to my friends on GitHub, go follow them:
+
+[@Pixelz22 (Computer Science Major @ NCSU)](https://github.com/Pixelz22) 
+[@USSYorktown10 (Beginning Programmer & Game Dev)](https://github.com/USSYorktown10) 
 
 
