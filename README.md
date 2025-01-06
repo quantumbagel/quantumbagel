@@ -41,13 +41,16 @@ Find some more information, a detailed portfolio, and a contact form on my [webs
 
 Other websites that I use:
 [Modrinth](https://modrinth.com/user/quantumbagel) 
+
 [Discord main (@QuantumBagel)](https://discordapp.com/users/897146430664355850)
+
 [Discord alt (@NotQuantum)](https://discordapp.com/users/1085939954758205561)
 
 
 Shoutout to my friends on GitHub, go follow them:
 
 [@Pixelz22 (Computer Science Major @ NCSU)](https://github.com/Pixelz22) 
+
 [@USSYorktown10 (Beginning Programmer & Game Dev)](https://github.com/USSYorktown10) 
 
 
