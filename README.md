@@ -4,7 +4,14 @@
 
 I'm a Wake Tech student, a cross country runner, serial programmer, professional bagel, and general idiot who uses GitHub for my various crazy projects.
 
-I've been taking an internship with NC State's AERPAW drone lab since 8th grade, a member of the Julian C. Stanley Study of Exceptional Talent (funny coincidence lol), have been accepted to NCSU's College of Engineering for a `Computer Engineering` major, and am a Park Scholarship semifinalist. I'm working towards getting my Masters in `Computer Science` by the summer of 2028.
+
+### Accomplishments
+* Member of the Julian C. Stanley Study of Exceptional Talent (funny coincidence lol)
+* Accepted to NCSU's College of Engineering for a `Computer Engineering` major
+* Park Scholarship Class of 2029 semifinalist
+* Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
+
+I'm working towards getting my Masters in `Computer Science` by the summer of 2028.
 
 
 ### Actual programming stuff
