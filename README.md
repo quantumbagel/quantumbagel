@@ -3,6 +3,9 @@
 ## 👋 I'm Julian Reder!
 
 serial programmer • please follow if you think i'm cool • python dev • college student
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/quantumbagel"/>  
+
 </div>
 
 ### Bio
