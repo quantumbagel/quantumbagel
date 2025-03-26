@@ -1,4 +1,9 @@
+<div align="center">
+
 ## 👋 I'm Julian Reder!
+
+serial programmer • please follow if you think i'm cool • python dev • college student
+</div>
 
 ### Bio
 
