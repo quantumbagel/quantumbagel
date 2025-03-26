@@ -4,10 +4,7 @@
 
 serial programmer • please follow if you think i'm cool • python dev • college student
 
-<img alt="Visitor Stats" 
-    src="https://widgetbite.com/stats/quantumbagel"/>  
-
-</div>
+[![Julian Reder profile views](https://u8views.com/api/v1/github/profiles/58365715/views/day-week-month-total-count.svg)](https://u8views.com/github/quantumbagel)
 
 ### Bio
 
