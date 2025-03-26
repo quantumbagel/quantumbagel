@@ -6,6 +6,8 @@ serial programmer • please follow if you think i'm cool • python dev • col
 
 [![Julian Reder profile views](https://u8views.com/api/v1/github/profiles/58365715/views/day-week-month-total-count.svg)](https://u8views.com/github/quantumbagel)
 
+</div>
+
 ### Bio
 
 I'm a Wake Tech student, a cross country runner, serial programmer, professional bagel, and general idiot who uses GitHub for my various crazy projects.
