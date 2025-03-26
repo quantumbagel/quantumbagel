@@ -10,6 +10,7 @@ I'm a Wake Tech student, a cross country runner, serial programmer, professional
 * Accepted to NCSU's College of Engineering for a `Computer Engineering` major
 * Park Scholarship Class of 2029 semifinalist
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
+* Winner of the Clarence M. Smith, Jr. Scholarship for the 2025-26 school year.
 
 I'm working towards getting my Masters in `Computer Science` by the summer of 2028.
 
