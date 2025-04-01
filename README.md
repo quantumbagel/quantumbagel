@@ -2,7 +2,7 @@
 
 ## 👋 I'm Julian Reder!
 
-serial programmer • please follow if you think i'm cool • python dev • college student
+serial programmer • please follow if you think i'm cool • python dev • college student • [resume](https://docs.google.com/document/d/1F9eT7GWwAabfJJ03XlA1iz4LeYJ_ewOWz_9VIe77SL4)
 
 [![Julian Reder profile views](https://u8views.com/api/v1/github/profiles/58365715/views/day-week-month-total-count.svg)](https://u8views.com/github/quantumbagel)
 
@@ -35,11 +35,12 @@ Most of the projects I work on here fall into three categories:
 - ### 🔭 I’m currently working on:
   - `PyAerial` - NC STATE intership project, successor to `airstrik.py`
   - `PlayCord` - a discord minigame bot
+  - `ConqBot` - generals.io backend, successor to the abandoned `Hannibal` project.
 - ### 😠 Projects I'm procrastinating on:
   - `Triggered` - an IFTTT discord bot that really only needs hardening
   - `finiteCraft` - i hate cloudflare js captchas
   - `Statify/Gauss Engine` - I want to work on this but can't find the time
-- ###  🌱 I’m currently learning
+- ### 🌱 I’m currently learning
   - How to handle distractions and deal with 16-20 credits per semester
   - How to plan out projects
 - ### 💻🗣️ My languages
@@ -63,6 +64,7 @@ Most of the projects I work on here fall into three categories:
 Find some more information, a detailed portfolio, and a contact form on my [website](https://quantumbagel.github.io)
 
 Other websites that I use:
+
 [Modrinth](https://modrinth.com/user/quantumbagel) 
 
 [Discord main (@QuantumBagel)](https://discordapp.com/users/897146430664355850)
