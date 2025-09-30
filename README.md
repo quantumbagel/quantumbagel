@@ -2,7 +2,7 @@
 
 ## 👋 I'm Julian Reder!
 
-serial programmer • please follow if you think i'm cool • python, c/c++, js dev • college student • [resume](https://docs.google.com/document/d/1F9eT7GWwAabfJJ03XlA1iz4LeYJ_ewOWz_9VIe77SL4)
+club xc runner • python, c/c++, backend stuff • college student • [resume](https://docs.google.com/document/d/1gq5sdEZpf0Aa72OVL7mjcgrHgKJGtB1S-MCWjtZQWz8/edit)
 
 [![](https://u8views.com/api/v1/github/profiles/58365715/views/day-week-month-total-count.svg)](https://u8views.com/github/quantumbagel)
 
@@ -35,12 +35,10 @@ Most of the projects I work on here fall into three categories:
 
   
 - ### 🔭 I’m currently working on:
-  - `aerpawlib2` - NCSU intership project, user-friendly testbed translation level for researchers
-  - `barometric-correction` - NCSU internship project, correcting drone altitude with the power of air pressure
-  - `LightsOut` - a puzzle platformer game I'm writing with @Pixelz22, engine and all 
+  - Applying to internships
+  - SCHOOL 
 - ### 🌱 I’m currently learning
-  - Mavlink/MAVSDK/ArduPilot
-  - How to prototype
+  - I hate college lel :)
 - ### 💻🗣️ My languages
    - `Python` - 🟢 Extremely proficient
    - `Selenium / Web Scraping` - 🟢 Extremely good
@@ -51,26 +49,26 @@ Most of the projects I work on here fall into three categories:
    - `Java` - 🟡 Proficient
    - `HTML/CSS` 🔴 Not great - know enough to get around, but haven't really worked in it at all
  - ### ⌚ Future projects
-   - `CustomCrafter` - a SpigotMC crafting plugin for Minecraft
-   - `WeBlock / Disney Square` - a lockdown / time management program for Windows, Linux, and MacOS. Might work on this with `@Pixelz22`.
+   - Not really sure what to work on in the future.
   
 
 
 ### More about me and socials
 
-Find some more information, a detailed portfolio, and a contact form on my [website](https://quantumbagel.github.io)
+Find some more information, a detailed portfolio, and a contact form on my [(outdated) website](https://quantumbagel.github.io) 
 
 Other websites that I use:
 
+[Discord (@thequantumbagel)](https://discordapp.com/users/897146430664355850)
+
 [Modrinth](https://modrinth.com/user/quantumbagel) 
 
-[Discord main (@QuantumBagel)](https://discordapp.com/users/897146430664355850)
 
 
 Shoutout to my friends on GitHub, go follow them:
 
 [@Pixelz22 (Computer Science Major @ NCSU)](https://github.com/Pixelz22) 
 
-[@USSYorktown10 (Beginning Programmer & Game Dev)](https://github.com/USSYorktown10) 
+[@USSYorktown10 (HS Programmer)](https://github.com/USSYorktown10) 
 
 
