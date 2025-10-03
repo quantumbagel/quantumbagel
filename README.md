@@ -2,7 +2,7 @@
 
 ## 👋 I'm Julian Reder!
 
-club xc runner • python, c/c++, backend stuff • college student • [resume](https://docs.google.com/document/d/1gq5sdEZpf0Aa72OVL7mjcgrHgKJGtB1S-MCWjtZQWz8/edit)
+club xc runner • python, c/c++, full-stack developer • college student • [resume](https://docs.google.com/document/d/1gq5sdEZpf0Aa72OVL7mjcgrHgKJGtB1S-MCWjtZQWz8/edit)
 
 [![](https://u8views.com/api/v1/github/profiles/58365715/views/day-week-month-total-count.svg)](https://u8views.com/github/quantumbagel)
 
@@ -69,6 +69,6 @@ Shoutout to my friends on GitHub, go follow them:
 
 [@Pixelz22 (Computer Science Major @ NCSU)](https://github.com/Pixelz22) 
 
-[@USSYorktown10 (HS Programmer)](https://github.com/USSYorktown10) 
+[@USSYorktown10 (Wannabe Tryhard Cool Guy)](https://github.com/USSYorktown10) 
 
 
