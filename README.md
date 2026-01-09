@@ -20,7 +20,7 @@ I'm a North Carolina State University student, a cross country runner, serial pr
 * Park Scholarship Class of 2029 semifinalist
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
 * Winner of the Clarence M. Smith, Jr. Scholarship for the 2025-26 school year.
-* Graduated college at 16
+* Graduated Wake Tech Community College with an Associate in Engineering at 16
 
 I'm working towards getting my Masters in `Computer Science` by the summer of 2028.
 
@@ -34,12 +34,9 @@ Most of the projects I work on here fall into three categories:
 * Other random projects that I take on for fun (`Molotov`, `finiteCraft`)
 
   
-- ### 🔭 I’m currently working on:
-  - Applying to internships
+- ### Working on:
   - SCHOOL 
-- ### 🌱 I’m currently learning
-  - I hate college lel :)
-- ### 💻🗣️ My languages
+- ### Languages/tools
    - `Python` - 🟢 Extremely proficient
    - `Selenium / Web Scraping` - 🟢 Extremely good
    - `Beating @Pixelz22` - 🟢 My most consistent skill
@@ -48,27 +45,19 @@ Most of the projects I work on here fall into three categories:
    - `C#` - 🟡 Proficient
    - `Java` - 🟡 Proficient
    - `HTML/CSS` 🔴 Not great - know enough to get around, but haven't really worked in it at all
- - ### ⌚ Future projects
+ - ### Future projects
    - Not really sure what to work on in the future.
   
 
 
 ### More about me and socials
 
-Find some more information, a detailed portfolio, and a contact form on my [(outdated) website](https://quantumbagel.github.io) 
+Find some more information, a detailed portfolio, and a contact form on my [website](https://quantumbagel.github.io) 
 
 Other websites that I use:
 
 [Discord (@thequantumbagel)](https://discordapp.com/users/897146430664355850)
 
 [Modrinth](https://modrinth.com/user/quantumbagel) 
-
-
-
-Shoutout to my friends on GitHub, go follow them:
-
-[@Pixelz22 (Computer Science Major @ NCSU)](https://github.com/Pixelz22) 
-
-[@USSYorktown10 (Wannabe Tryhard Cool Guy)](https://github.com/USSYorktown10) 
 
 
