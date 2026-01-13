@@ -20,7 +20,7 @@ I'm a North Carolina State University student, a cross country runner, serial pr
 * Park Scholarship Class of 2029 semifinalist
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
 * Winner of the Clarence M. Smith, Jr. Scholarship for the 2025-26 school year.
-* Graduated Wake Tech Community College with an Associate in Engineering at 16
+* Graduated Wake Tech Community College with an Associate in Science at 16
 
 I'm working towards getting my Masters in `Computer Science` by the summer of 2028.
 
