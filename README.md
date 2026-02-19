@@ -45,7 +45,7 @@ Everything public is either being worked on or is in a "finished" state.
    - `Selenium / Web Scraping` - Largely worked on within Python. Have reverse engineered multiple websites and games using Selenium.
    - `Docker/Docker Compose` - Many of my packages provide Dockerfiles and instructions for using them in containerized environments.
    - `Javascript/Node.js` - Mostly worked on in the context of my personal portfolio and injecting JavaScript into websites using Selenium.
-   - `C#` - 
+   - `C#` - Largely used in context with Godot and Unity, can definitely learn more if required. 
    - `Java` - Written several Minecraft mods and a chess bot.
    - `HTML/CSS` Once again, mostly worked in in context with selenium.
  
