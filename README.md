@@ -19,6 +19,7 @@ I'm a North Carolina State University undergraduate student in Computer Engineer
 * Member of the Julian C. Stanley Study of Exceptional Talent (funny coincidence lol)
 * Accepted to NCSU's College of Engineering in Fall 2024.
 * Park Scholarship Class of 2029 semifinalist
+* Inductee of the NC Alpha chapter of Tau Beta Pi (NCSU chapter)
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
 * Winner of the Clarence M. Smith, Jr. Scholarship for the 2025-26 school year.
 * Graduated Wake Tech Community College with an Associate in Science at 16
@@ -39,7 +40,9 @@ Everything public is either being worked on or is in a "finished" state.
 ---
 
 - ### Working on:
-  - AERPAW internship 
+  - AERPAW internship
+  - PlayCord
+ 
 - ### Languages/tools
    - `Python` - Many projects encompassing a wide variety of libraries and toolsets. 
    - `Selenium / Web Scraping` - Largely worked on within Python. Have reverse engineered multiple websites and games using Selenium.
