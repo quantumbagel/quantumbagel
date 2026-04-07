@@ -17,7 +17,7 @@ I'm a North Carolina State University undergraduate student in Computer Engineer
 
 ### Accomplishments
 * Member of the Julian C. Stanley Study of Exceptional Talent (funny coincidence lol)
-* Accepted to NCSU's College of Engineering in Fall 2024.
+* Accepted to NCSU's College of Engineering at 15.
 * Park Scholarship Class of 2029 semifinalist
 * Inductee of the NC Alpha chapter of Tau Beta Pi (NCSU chapter)
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
