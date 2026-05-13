@@ -25,10 +25,12 @@ I'm a North Carolina State University undergraduate student in Computer Engineer
 * Top 5% AMC 8 / Top 10% AMC12B (in 8th grade), Top 0.1% in CLT, SSAT, SAT
 * Accepted to NCSU's College of Engineering at 15.
 * Park Scholarship Class of 2029 semifinalist
-* Inductee of the NC Alpha chapter of Tau Beta Pi (NCSU chapter)
 * Winner of the Clarence M. Smith, Jr. Scholarship for the 2025-26 school year.
 * Graduated Wake Tech Community College with an Associate in Science at 16
+* Inductee of the NC Alpha chapter of Tau Beta Pi (NCSU chapter)
 * Member of NCSU Rising Leaders Fall 2025 Cohort
+* Winner of the Square D Foundation Endowed Scholarship for the 2026-27 school year.
+* NCSU Deans List (2x)
 
 </details>
 
