@@ -97,8 +97,10 @@ Most of the projects I work on here fall into three categories:
 
 ### Working on:
   - aerpawlib
+  - PyAerial
   - Lifelight
-  - Merrill Internship
+  - Strife
+  - ML-Ticker
  
 
 ### Contact me
