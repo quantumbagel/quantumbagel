@@ -5,7 +5,8 @@
 I like to make stuff. Sometimes, it even works!
 </div>
 
-
+> I'm making a game!
+> I need artists. The game will be a 2D pixel-art puzzle platformer. If you're interested, DM me on discord (@thequantumbagel).
 
 ### Bio
 
