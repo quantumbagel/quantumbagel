@@ -101,8 +101,7 @@ Most of the projects I work on here fall into three categories:
   - PyAerial
   - Lifelight
   - Strife
-  - ML-Ticker
- 
+  - Some other small projects 
 
 ### Contact me
 
