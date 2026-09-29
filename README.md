@@ -2,11 +2,9 @@
 
 ## 👋 I'm Julian Reder!
 
-I like to make stuff. Sometimes, it even works!
+Works on my machine! Hopefully on yours as well :)
 </div>
 
-> I'm making a game!
-> I need artists. The game will be a 2D pixel-art puzzle platformer. A playtest is coming soon! If you're interested, DM me on discord (@thequantumbagel) 🥺
 
 ### Bio
 
@@ -99,9 +97,8 @@ Most of the projects I work on here fall into three categories:
 ### Working on:
   - aerpawlib
   - PyAerial
-  - Lifelight
   - Strife
-  - Some other small projects 
+  - Some other small projects (Including design for what could become another game!)
 
 ### Contact me
 
